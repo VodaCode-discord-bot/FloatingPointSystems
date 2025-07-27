@@ -1,0 +1,34 @@
+Usagi FPS-100 New Build
+Series    Name           Function
+4401      FA             Floating Adder
+4402      DATA PAD       Data Pad
+4402      DATA PAD       Data Pad
+4426      FM             Floating Multiplier
+4424      MD             Main Data Memory (Data in from and to Host)
+Blank for extra MD
+4425      TM             Table Memory
+4423      P2 (4K)        Processor 2
+4422      P1 (4K)        Processor 1
+4408      P3             Processor 3
+4429      PDP 11 FMT     PDP 11 Formatter
+4421      PDP 11 I/F     PDP 11 Interface
+4448      AP I/F         Arithmetic Processor Interface
+
+
+Sark's FPS-100
+Series    Name           Function
+4401      FA             Floating Adder
+4402      DATA PAD       Data Pad
+4402      DATA PAD       Data Pad
+4426      FM             Floating Multiplier
+4424      MD             Main Data Memory
+4424      MD             Main Data Memory
+4425      TM             Table Memory
+4423      P2 (4K)        Processor 2
+4422      P1 (4K)        Processor 1
+4408      P3             Processor 3
+4424      MD             Main Data Memory
+4456      MD             Main Data / Memory
+4274      ??             ??
+4446      CUSTOM FMT     Custom Formatter
+4448      AP I/F         Arithmetic Processor Interface
