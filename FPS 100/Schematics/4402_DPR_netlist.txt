@@ -1,9 +1,9 @@
-4401 Floating Adder Connection List
+4402 Data Pad Right Connection List
 A = left connector, B = right connector
 1 = leftmost component side, 100 = rightmost solder side
 odd = component side, even = solder side
 
-Connector J1
+Connector J5
 A1 - +5V
 A2 - +5V
 A3 - GND
@@ -125,7 +125,7 @@ A118 - GND
 A119 - +5V
 A120 - +5V
 
-Connector J2
+Connector J6
 B1 - +5V
 B2 - +5V
 B3 - GND
