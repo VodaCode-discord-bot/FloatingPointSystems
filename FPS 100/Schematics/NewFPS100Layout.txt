@@ -1,0 +1,13 @@
+Usagi FPS-100 New Build
+
+4401      FA             Floating Adder
+4402      DATA PAD       Data Pad Left
+4402      DATA PAD       Data Pad Right
+4426      FM             Floating Multiplier
+4424      MD             Main Data Memory (Data in from and to Host)
+4425      TM             Table Memory
+4423      P2 (4K)        Processor 2
+4422      P1 (4K)        Processor 1
+4408      P3             Processor 3
+4429      FMT            Formatter
+4421      PDP 11 I/F     PDP 11 Interface
