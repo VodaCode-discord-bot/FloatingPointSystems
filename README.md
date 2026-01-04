@@ -2,7 +2,11 @@
 
 A repository for gathering information and understanding floating-point-systems machines.
 
-> **Note:** This README needs to be verified by the REPO owner: Nakazoto. This documentation is incomplete and will be expanded as more information becomes available.
+> [!NOTE]
+> This documentation is incomplete and will be expanded as more information becomes available.
+
+> [!WARNING]
+> This README needs to be verified by the REPO owner: Nakazoto. 
 
 ## Overview
 
