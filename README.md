@@ -22,11 +22,11 @@ This project contains datasheets, documentation, and code related to floating-po
 
 ## Index - For FPS folders
 
-1. [AP 120B](#overview)
-2. [FPS 100](docs)
-3. [FPS 164](docs/fps-164)
-4. [FPS 3000](docs/fps-3000)
-5. [FPS 5000](docs/fps-5000)
+1. [AP 120B](/ap-120b)
+2. [FPS 100](/fps-100)
+3. [FPS 164](/fps-164)
+4. [FPS 3000](/fps-3000)
+5. [FPS 5000](/fps-5000)
 
 ## Contributing 
 
