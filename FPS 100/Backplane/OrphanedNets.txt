@@ -1,0 +1,40 @@
+Orphaned Nets
+--------------------------------------------------------------------------------
+4402_Data_Pad_Right
+    A006: !WRTR*
+
+4408_Processor_3
+    A009: !WRTR
+    B113: INTCP
+    B115: EXTCLK{408}
+
+4422_Processor_1
+    A009: FAOVF*
+    B110: NOP*
+    B115: IOINTR*
+    B116: RBUEQ*
+
+4424_Main_Data
+    A010: MDEXP
+
+4425_Table_Memory
+    B098: MIMBS22*
+    B100: MIMBS23*
+    B102: MIMBS24*
+    B104: MIMBS25*
+    B106: MIMBS26*
+    B108: MIMBS27*
+    B109: TM32*
+    B110: TM33*
+    B111: TM34*
+    B112: TM35*
+    B113: TM36*
+    B114: TM37*
+    B115: TM38*
+    B116: TM39*
+
+4426_Floating_Multiplier
+    A005: !MICLK
+
+4429_Formatter
+    A007: RPDP
